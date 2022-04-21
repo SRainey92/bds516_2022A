@@ -1,0 +1,12 @@
+name: "BDS516 2022A"
+output_dir: "."
+navbar:
+  title: "BDS516 2022A"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Srainey"
+      href: Srainey.html
+      
